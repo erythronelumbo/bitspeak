@@ -25,6 +25,8 @@ Decoding:
 #include <sstream>
 #include <vector>
 
+// Some changes thanks to: http://codereview.stackexchange.com/a/145379/110471
+
 namespace bitspeak
 {
 
